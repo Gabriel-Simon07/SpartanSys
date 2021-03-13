@@ -1,7 +1,7 @@
 # SpartanSys
  SpartanSys - Sistemas de Hotéis
 
-*SpartanSys é um programa para cadastro de pessoas em hotéis
+**SpartanSys é um programa para cadastro de pessoas em hotéis**
 
 ![tela](https://github.com/Gabriel-Simon07/SpartanSys/blob/master/LogotipoSpartanSys.png)
 
@@ -55,7 +55,7 @@
 
 **Ferramentas usadas**
 
-*Java
+-Java
 
-*Eclipse IDE
+-Eclipse IDE
 
